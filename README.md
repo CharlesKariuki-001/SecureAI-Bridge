@@ -39,4 +39,4 @@ Use, share, and learn freely.
 
 ---
 
-<p align="center"> 🔐 SecureAI-Bridge – Smarter, Safer Digital Ecosystems ✨ </p>
+<p align="center"> 🔐 SecureAI-Bridge ---- Smarter, Safer Digital Ecosystems ✨ </p>
